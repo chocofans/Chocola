@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net11.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <BaseOutputPath>..\bin\</BaseOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="..\assets\bg_test.png" Link="assets\bg_test.png" />
+    <Resource Include="..\assets\prod.png" Link="assets\prod.png" />
+  </ItemGroup>
+</Project>

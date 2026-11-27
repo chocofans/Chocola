@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Source/">
+    <File Path="src/Client/Core/MainWindow.xaml" />
+    <File Path="src/Client/Core/MainWindow.xaml.cs" />
+    <File Path="src/Client/Core/LoginWindow.xaml" />
+  </Folder>
+  <Project Path="src/Chocola.csproj" />
+</Solution>
